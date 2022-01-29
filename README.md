@@ -1,2 +1,2 @@
-# booksexchang
+# BooksExchange
 excahnge books between peaple
